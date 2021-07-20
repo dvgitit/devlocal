@@ -22,3 +22,4 @@ choco config set proxyBypassOnLocal true
 #
 choco list --local-only
 #
+choco install -y choco-local.config
